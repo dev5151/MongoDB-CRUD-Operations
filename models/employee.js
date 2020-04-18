@@ -8,5 +8,5 @@ var Employee=mongoose.model('Employee',{
     
 },'emp');
 
-module.exports=Employee;
+module.exports={Employee};
 
